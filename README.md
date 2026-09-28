@@ -23,7 +23,7 @@ When actual preparation time differs from the expected time, delays can compound
 ## 🚀 Proposed Concept
 An AI-driven kitchen prep-time prediction layer that estimates when an order is likely to be ready and uses this prediction to support more accurate ETA calculation and delivery coordination.
 The concept brings together:
-Kitchen Intelligence → ETA Reliability → Better Delivery Coordination → Better Customer Experience
+> Kitchen Intelligence → ETA Reliability → Better Delivery Coordination → Better Customer Experience
 
 ## 📊 Case Study Covers
 - 🧩 Problem framing & Jobs-to-be-Done
@@ -36,5 +36,7 @@ Kitchen Intelligence → ETA Reliability → Better Delivery Coordination → Be
 
 ## 📌 Case Study Details
 👩‍💻 Author: Ayesha Bamahdi
+
 🎯 Focus: Product Management | AI & Predictive Analytics | UX Strategy | Hyperlocal Operations
+
 🏷️ Domain: FoodTech | Delivery | AI | Customer Experience
