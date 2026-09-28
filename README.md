@@ -18,7 +18,7 @@ Hyperlocal food delivery operates within tight delivery windows, but kitchen pre
 When actual preparation time differs from the expected time, delays can compound across the delivery journey — resulting in rider waiting, inaccurate ETAs, SLA breaches, and customer dissatisfaction.
 
 ## 🎯 Core Insight
-> Delivery reliability is not only a logistics problem. Kitchen preparation is a critical source of delivery uncertainty.
+Delivery reliability is not only a logistics problem. Kitchen preparation is a critical source of delivery uncertainty.
 
 ## 🚀 Proposed Concept
 An AI-driven kitchen prep-time prediction layer that estimates when an order is likely to be ready and uses this prediction to support more accurate ETA calculation and delivery coordination.
