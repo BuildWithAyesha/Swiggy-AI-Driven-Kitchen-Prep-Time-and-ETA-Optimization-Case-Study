@@ -1,4 +1,4 @@
-# Swiggy — AI-Driven Kitchen Prep Time & ETA Optimization 🍔🤖
+# Swiggy — AI-Driven Kitchen Prep Time & ETA Optimization🍔🤖
 
 ## Overview
 A conceptual product case study exploring how AI-driven kitchen preparation time prediction can improve ETA reliability in hyperlocal food delivery.
